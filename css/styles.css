@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1, h2 {
+    color: #4b0082; /* Indigo */
+}
+
+.form-control, .btn {
+    border-radius: 0;
+}
+
+.btn-primary {
+    background-color: #4b0082;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #36005f;
+}
